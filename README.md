@@ -4,7 +4,7 @@
 
 ### Overview of dataset
 
-We used the Caltech101 dataset for the project. The Caltech 101 dataset, introduced by Fei-Fei et al. in 2004, is a widely used dataset for object recognition tasks. It contains 9,144 im- ages spanning 101 distinct object categories, such as animals, vehicles, instruments, and everyday objects, and an additional background category. Each category contains between 40 to 800 images, with most categories having about 50 images. The images are of varying sizes and resolutions, presenting real- world challenges for object classification tasks. The dataset provides a balanced variety of classes, making it suitable for multi-class classification problems in computer vision tasks.
+We used the Caltech101 dataset for the project. The Caltech 101 dataset, introduced by Fei-Fei et al. in 2004, is a widely used dataset for object recognition tasks. It contains 9,144 images spanning 101 distinct object categories, such as animals, vehicles, instruments, and everyday objects, and an additional background category. Each category contains between 40 to 800 images, with most categories having about 50 images. The images are of varying sizes and resolutions, presenting real-world challenges for object classification tasks. The dataset provides a balanced variety of classes, making it suitable for multi-class classification problems in computer vision tasks.
 
 ### Experiments
 In this project, we aim to develop a classification model for the Caltech 101 dataset. The following key steps are followed:
